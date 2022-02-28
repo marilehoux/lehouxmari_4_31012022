@@ -477,6 +477,10 @@ button {
 
 .icon-md {
     font-size: 30px!important;
+    color:#101211!important;
+}
+.icon-md:hover{
+  color:#c1e0dc!important;
 }
 
 .icon-lg {
@@ -734,7 +738,9 @@ h4 {
     margin-bottom: 14px;
     margin-top: 24px;
 }
-
+.black {
+  color: #101211!important;
+}
 .white {
     color: #FFFFFF!important;
 }
