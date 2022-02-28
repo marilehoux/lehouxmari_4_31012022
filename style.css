@@ -123,7 +123,7 @@ a:hover {
 .d-bloc .navbar a,
 .d-bloc .navbar-brand,
 .d-bloc a .icon-sm,
-.d-bloc a .icon-md,
+/*.d-bloc a .icon-md,*/
 .d-bloc a .icon-lg,
 .d-bloc a .icon-xl,
 .d-bloc h1 a,
@@ -140,7 +140,7 @@ a:hover {
 .d-bloc .navbar a:hover,
 .d-bloc .navbar-brand:hover,
 .d-bloc a:hover .icon-sm,
-.d-bloc a:hover .icon-md,
+/*.d-bloc a:hover .icon-md,*/
 .d-bloc a:hover .icon-lg,
 .d-bloc a:hover .icon-xl,
 .d-bloc h1 a:hover,
@@ -477,7 +477,7 @@ button {
 
 .icon-md {
     font-size: 30px!important;
-    color:#101211!important;
+    color:#111211!important;
 }
 .icon-md:hover{
   color:#c1e0dc!important;
@@ -739,7 +739,7 @@ h4 {
     margin-top: 24px;
 }
 .black {
-  color: #101211!important;
+  color: #111211!important;
 }
 .white {
     color: #FFFFFF!important;
